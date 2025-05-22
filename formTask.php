@@ -57,6 +57,21 @@ $result = mysqli_query($conn, $query);
                 <textarea class="form-control" id="description" name="description" rows="3" placeholder="Description Task" required></textarea>
             </div>
 
+            <div class="mb-3">
+                <label for="name" class="form-label">Description</label>
+                <textarea class="form-control" id="description" name="description" rows="3" placeholder="Description Task" required></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="name" class="form-label">Description</label>
+                <textarea class="form-control" id="description" name="description" rows="3" placeholder="Description Task" required></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="name" class="form-label">Description</label>
+                <textarea class="form-control" id="description" name="description" rows="3" placeholder="Description Task" required></textarea>
+            </div>
+
             <div>
                 <button type="submit" class="btn btn-primary">Submit</button>
                 <button type="reset" class="btn btn-danger">Cancel</button>
